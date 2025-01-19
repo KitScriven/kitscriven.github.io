@@ -7,6 +7,7 @@ I am currently employed as a Coordinator for [the UC Berkeley Student Learning C
 
 ## Links
 * [My Github Page](https://github.com/KitScriven)
+
 ## Academic Interests
 * Probability Theory
 * Measure Theory
