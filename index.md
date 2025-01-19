@@ -5,7 +5,9 @@ IPA: \[kɪt ˈskɹɪ.vɛn]
 
 I am currently employed as a Coordinator for [the UC Berkeley Student Learning Center's Mathematics and Statistics program](https://slc.berkeley.edu/mathematics-and-statistics). I work primarily with lower division linear algebra (Math 54), teaching an adjunct course and facilitating topic reviews. 
 
-## Academic Interests: 
+## Links
+* [My Github Page](https://github.com/KitScriven)
+## Academic Interests
 * Probability Theory
 * Measure Theory
 * Social Choice Theory and Game Theory
