@@ -12,6 +12,7 @@ I am currently employed as a Coordinator for [the UC Berkeley Student Learning C
 * Probability Theory
 * Measure Theory
 * Social Choice Theory and Game Theory
+	* Especially as applied to public policy, and even more especially as applied to education policy
 * Linear Algebra
 * Numerical Analysis
 * Pedagogy
