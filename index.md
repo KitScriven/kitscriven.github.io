@@ -1,5 +1,5 @@
 # Kit Scriven
-[IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet): \[kɪt ˈskɹɪ.vɛn]
+[IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet): \[kʰɪt ˈskɹɪ.vɛn]
 
 *Everything here is my own, and nothing here is representing any organizations in any capacity.*
 
