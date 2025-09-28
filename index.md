@@ -1,5 +1,5 @@
 # Kit Scriven
-IPA: \[kɪt ˈskɹɪ.vɛn]
+[IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet): \[kɪt ˈskɹɪ.vɛn]
 
 *Everything here is my own, and nothing here is representing any organizations in any capacity.*
 
@@ -9,10 +9,10 @@ I am currently employed as a Coordinator for [the UC Berkeley Student Learning C
 * [My Github Page](https://github.com/KitScriven)
 
 ## Academic Interests
-* Probability Theory
-* Measure Theory
 * Social Choice Theory and Game Theory
 	* Especially as applied to public policy, and even more especially as applied to education policy
+* Probability Theory
+* Measure Theory
 * Linear Algebra
 * Numerical Analysis
 * Pedagogy
